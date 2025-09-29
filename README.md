@@ -1,4 +1,5 @@
 # XRP-practice
+https://github.com/XRPL-Commons/xrpl-training-2025-september
 
 Main Activity Hub: https://docs.xrpl-commons.org
 
