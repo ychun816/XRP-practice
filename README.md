@@ -1,25 +1,9 @@
-# XRP-practice (https://github.com/XRPL-Commons/xrpl-training-2025-september)
-- Main Activity Hub: https://docs.xrpl-commons.org
-
-### Day 1
-- Morning Payment Activity: https://docs.xrpl-commons.org/xrpl-basics/payments
-- Afternoon Token Issuance Activity: https://docs.xrpl-commons.org/token-issuance-and-liquidity
-
-### Main links
-
-Ecosystem map: https://map.xrpl-commons.org
-Block explorer: https://testnet.xrpl.org
-Faucets: https://xrpl.org/resources/dev-tools/xrp-faucets/
-Transactions references: https://xrpl.org/docs/references/protocol/transactions/types/
-Training live sync: https://trainings.xrpl.at (password is training-april-2024)
-
-----
-
 # XRP Practice
 
 ## Table of Contents
 
 * [About](#about)
+* [Resouces](#Resources)
 * [Usage](#usage)
 * [Setup & Compilation](#setup--compilation)
 * [Key Concepts Learned](#key-concepts-learned)
@@ -27,6 +11,7 @@ Training live sync: https://trainings.xrpl.at (password is training-april-2024)
 * [Technical Implementation](#technical-implementation)
 * [Understanding the XRP Ledger](#understanding-the-xrp-ledger)
 * [Development Standards](#development-standards)
+
 
 ## About
 
@@ -38,7 +23,18 @@ Interacting with a decentralized, real-time financial ledger like XRP requires u
 This project builds a strong foundation for blockchain developers seeking to work with XRP APIs, sign transactions, and automate ledger operations.
 
 ---
+## Resources
+- XRP-practice https://github.com/XRPL-Commons/xrpl-training-2025-september
+- Main Activity Hub: https://docs.xrpl-commons.org
+- Morning Payment Activity: https://docs.xrpl-commons.org/xrpl-basics/payments
+- Afternoon Token Issuance Activity: https://docs.xrpl-commons.org/token-issuance-and-liquidity
+- Ecosystem map: https://map.xrpl-commons.org
+- Block explorer: https://testnet.xrpl.org
+- Faucets: https://xrpl.org/resources/dev-tools/xrp-faucets/
+- Transactions references: https://xrpl.org/docs/references/protocol/transactions/types/
+- Training live sync: https://trainings.xrpl.at (password is training-april-2024)
 
+---
 ## Usage
 
 The program demonstrates how to establish a connection with the XRP Ledger, retrieve account information, and send test transactions.
