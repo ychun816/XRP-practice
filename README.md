@@ -235,11 +235,13 @@ Its consensus algorithm allows settlement in seconds without mining or high ener
 ---
 
 <p align="center">
+  
 ![TypeScript](https://img.shields.io/badge/Made%20with-TypeScript-9AD0EC?style=flat&logo=typescript&logoColor=white) <!-- pastel blue -->
 ![XRPL](https://img.shields.io/badge/Blockchain-XRPL-AAF7D1?style=flat&logoColor=white) <!-- pastel green -->
 ![XRP Practice](https://img.shields.io/badge/XRP%20Practice-FCB9DE?style=flat&logoColor=white) <!-- pastel pink -->
 ![Learning](https://img.shields.io/badge/Learning-FFF1A8?style=flat&logoColor=white) <!-- pastel yellow -->
 ![Experimental](https://img.shields.io/badge/Experimental-CDA4FF?style=flat&logoColor=white) <!-- pastel purple -->
+
 </p>
 
 
