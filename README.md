@@ -242,7 +242,6 @@ Its consensus algorithm allows settlement in seconds without mining or high ener
   <img src="https://img.shields.io/badge/Learning-FFF1A8.svg"/> <!-- pastel yellow -->
 </p>
 
-
 ---
 
 
